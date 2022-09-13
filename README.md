@@ -6,9 +6,9 @@
   </span><img src="https://img.shields.io/badge/made%20with-python-blue" /><span> <img src="https://img.shields.io/badge/made%20with-pandas-orange" /><span>
 </div>
 
-<h2 align="center"> Documentation </h2>
+<h2 align="center"> Chapters </h2>
 
-#### 1: Reading data from a file
+[#### 1: Reading data from a file](1_Reading_Data.py)
 
 #### 2: Ways of searching for data 
 
